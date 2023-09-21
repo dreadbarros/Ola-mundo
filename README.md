@@ -1,2 +1,3 @@
-# Ola mundo
- Primeiro repositório do curso GIt e GitHub
+# Teste primário
+
+ Primeiro repositório do curso de GIt e GitHub!
